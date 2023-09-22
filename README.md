@@ -5,6 +5,7 @@
 ### windows custom desktop
 - https://www.rainmeter.net/
 - https://github.com/khanhas/Polybar
+- Try to use FancyZones from: https://github.com/microsoft/PowerToys
 
 ### Contact me:
 
