@@ -4,7 +4,8 @@
 
 - https://tiraet.com/catalog/Komplektujuschie/setevoe-oborudovanie/Aktivnoe-setevoe-oborudovanie/switch_mercusys_ms105g_5_portov_10_100_1000_mbit_s/#props
 - https://tiraet.com/catalog/ohrannye-sistemy/oborudovanie-poe/adaptery-pitanija-poe/inzhektor_poe_wi_tek_wi_ps302g_ups_s_funkts_ups_1p_1000base_poe_24_48v_1p_1000base_ac_220v_12v_dc_24/
-- https://tiraet.com/catalog/ohrannye-sistemy/oborudovanie-poe/spliter-poe/splitter_stelberry_mx_225_universalnyy_prokhodnoy_poe/
+- https://www.ebay.com/itm/335010990539?var=544231498987
+
 - https://hi-tech.md/kompyuternaya-tehnika/monitory/lcd/monitor-philips-24m1n3200zs-00/
 
 - https://duronic.com/collections/desk-mounts/products/duronic-dm15-dm25-dm35-61cm-pole-compatible-with-all-duronic-monitor-desk-mount-arms-black-steel-long-610mm-length-32mm-diameter-clamp-included
