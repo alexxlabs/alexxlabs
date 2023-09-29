@@ -15,6 +15,10 @@
 - https://duronic.com/collections/desk-mounts/products/duronic-dual-screen-monitor-stand-dm35v2x2-double-twin-pc-desk-mount-aluminium-for-two-13-27-inch-led-lcd-screens-vesa-75-100-8kg-per-screen-tilt-15-15-swivel-180-rotate-360
 
 - https://vantourist.ru/shop/electricity/battery
+- https://www.kirich.blog/profile/kirich/posts/
+- https://www.kirich.blog/stati/informaciya-dlya-nachinayuschih/1204-akkumulyatory-plohie-horoshie-a-takzhe-sharoobraznye.html
+- https://www.kirich.blog/stati/zametki-na-polyah/1058-kalkulyator-podbora-akkumulyatorov-dlya-batarey.html
+- https://cellsaviors.com/
 
 
 ### windows custom desktop
