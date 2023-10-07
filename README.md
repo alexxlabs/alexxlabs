@@ -17,10 +17,10 @@
 - https://vantourist.ru/shop/electricity/battery
 
 - https://www.nkon.nl/ru/rechargeable/lifepo4.html
-- https://www.kirich.blog/profile/kirich/posts/
 - https://www.kirich.blog/stati/informaciya-dlya-nachinayuschih/1204-akkumulyatory-plohie-horoshie-a-takzhe-sharoobraznye.html
 - https://www.kirich.blog/stati/informaciya-dlya-nachinayuschih/1121-kak-uskorit-zaryad-akkumulyatora-bez-narusheniya-pravil-ego-ekspluatacii.html
 - https://www.kirich.blog/obzory/bloki-pitaniya/963-3-bloka-pitaniya-geekcreit-24-volta-4a-6a-za-13-dollarov.html
+
 - https://www.kirich.blog/stati/zametki-na-polyah/1058-kalkulyator-podbora-akkumulyatorov-dlya-batarey.html
 - https://cellsaviors.com/
 
