@@ -2,7 +2,6 @@
 - Activate Windows/Office: https://massgrave.dev/
 - Check this out: https://github.com/amd64fox/SpotX/releases/tag/1.0 
 
-- https://tiraet.com/catalog/Komplektujuschie/setevoe-oborudovanie/Aktivnoe-setevoe-oborudovanie/switch_mercusys_ms105g_5_portov_10_100_1000_mbit_s/#props
 - https://tiraet.com/catalog/ohrannye-sistemy/oborudovanie-poe/adaptery-pitanija-poe/inzhektor_poe_wi_tek_wi_ps302g_ups_s_funkts_ups_1p_1000base_poe_24_48v_1p_1000base_ac_220v_12v_dc_24/
 - https://www.ebay.com/itm/335010990539?var=544231498987
 
