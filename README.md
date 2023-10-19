@@ -5,8 +5,6 @@
 - https://tiraet.com/catalog/ohrannye-sistemy/oborudovanie-poe/adaptery-pitanija-poe/inzhektor_poe_wi_tek_wi_ps302g_ups_s_funkts_ups_1p_1000base_poe_24_48v_1p_1000base_ac_220v_12v_dc_24/
 - https://www.ebay.com/itm/335010990539?var=544231498987
 
-- https://hi-tech.md/kompyuternaya-tehnika/monitory/lcd/monitor-philips-24m1n3200zs-00/
-
 - https://duronic.com/collections/desk-mounts/products/duronic-dm15-dm25-dm35-61cm-pole-compatible-with-all-duronic-monitor-desk-mount-arms-black-steel-long-610mm-length-32mm-diameter-clamp-included
 - https://duronic.com/collections/desk-mounts/products/duronic-spare-arm-set-dml5-bk-whole-dm35-arm-with-vesa-head-compatible-with-all-duronic-monitor-desk-mounts-poles-black-aluminium-18cm-x-4cm-each-use-to-extend-dm351-dm352-dm353-dm354
 - https://duronic.com/collections/keyboard-attachments/products/duronic-keyboard-platform-dktpx2-under-desk-drawer-for-keyboard-and-mouse-clamp-on-keyboard-tray-ergonomic-workstation-solution-sliding-pull-out-tray-easy-assembly
@@ -31,8 +29,7 @@
 
 ### Contact me:
 
-
 <!---
-alexxlabs/alexxlabs is a special repository because its 'README.md' (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+alexxlabs/alexxlabs is a special repository because its 'README.md' (this file)
+appears on your GitHub profile.
 --->
