@@ -21,6 +21,8 @@
 - https://www.kirich.blog/stati/zametki-na-polyah/1058-kalkulyator-podbora-akkumulyatorov-dlya-batarey.html
 - https://cellsaviors.com/
 
+- https://mitxela.com/projects/kiloboot
+- https://habr.com/ru/articles/729382/
 
 ### windows custom desktop
 - https://www.rainmeter.net/
