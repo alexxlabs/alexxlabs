@@ -1,6 +1,3 @@
-### alpinelinux
-- https://www.medo64.com/2023/04/zfs-root-setup-with-alpine-linux/
-
 ### Выбор монитора
 - [ PPI ] https://habr.com/ru/articles/508824/
 - https://duronic.com/collections/desk-mounts/products/duronic-dm15-dm25-dm35-61cm-pole-compatible-with-all-duronic-monitor-desk-mount-arms-black-steel-long-610mm-length-32mm-diameter-clamp-included
