@@ -1,0 +1,1 @@
+## Сборка тонкого клиента RDP на базе Raspberry Pi: https://habr.com/ru/articles/479504/
