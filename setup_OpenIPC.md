@@ -1,9 +1,10 @@
-The tmpfs can also be temporarily resized without the need to reboot,
-for example when a large compile job needs to run soon. In this case, run:
-
-mount -o remount,size=4G,noatime /
-
 ### OpenIPC
+https://github.com/OpenIPC/coupler/?tab=readme-ov-file
+https://habr.com/ru/articles/688386/
+
+
+
+
 python burn --chip hi3516ev200 --file=u-boot-gk7205v300-universal.bin -p COM2 --break 
 && C:\portable\putty\PUTTY.EXE -serial COM4 -sercfg 115200,8,n,1,N
 
