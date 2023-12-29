@@ -1,3 +1,9 @@
+# NVR Frigate
+https://docs.frigate.video/frigate/installation/
+https://wiki.seeedstudio.com/ODYSSEY-X86J4105-Frigate/
+https://coral.ai/docs/accelerator/get-started/#1-install-the-edge-tpu-runtime
+https://github.com/google-coral/libedgetpu
+
 # wiki: https://github.com/OpenIPC/wiki
 
 # Установка универсальной прошивки OpenIPC

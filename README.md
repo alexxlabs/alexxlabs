@@ -1,9 +1,17 @@
+# TODO:
+https://www.tumfatig.net/2023/smb-shares-using-omnios-zones-and-zfs/
+
 ### Выбор монитора
 - [ PPI ] https://habr.com/ru/articles/508824/
+
 - https://duronic.com/collections/desk-mounts/products/duronic-dm15-dm25-dm35-61cm-pole-compatible-with-all-duronic-monitor-desk-mount-arms-black-steel-long-610mm-length-32mm-diameter-clamp-included
+
 - https://duronic.com/collections/desk-mounts/products/duronic-spare-arm-set-dml5-bk-whole-dm35-arm-with-vesa-head-compatible-with-all-duronic-monitor-desk-mounts-poles-black-aluminium-18cm-x-4cm-each-use-to-extend-dm351-dm352-dm353-dm354
+
 - https://duronic.com/collections/keyboard-attachments/products/duronic-keyboard-platform-dktpx2-under-desk-drawer-for-keyboard-and-mouse-clamp-on-keyboard-tray-ergonomic-workstation-solution-sliding-pull-out-tray-easy-assembly
+
 - https://duronic.com/collections/desk-mounts/products/duronic-grommet-1-black-dm-gr-01-adaptor-for-fixing-monitor-arm-bracket-via-a-hole-in-the-desk-compatible-with-duronic-desk-mounts-dm15-dm25-dm35-ranges-and-dm451-only-black-steel
+
 - https://duronic.com/collections/desk-mounts/products/duronic-dual-screen-monitor-stand-dm35v2x2-double-twin-pc-desk-mount-aluminium-for-two-13-27-inch-led-lcd-screens-vesa-75-100-8kg-per-screen-tilt-15-15-swivel-180-rotate-360
 
 ### Linksys SPA3000
