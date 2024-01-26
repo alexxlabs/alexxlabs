@@ -1,3 +1,6 @@
+https://sanjeevan.co.uk/blog/running-services-inside-a-container-using-runit-and-alpine-linux
+https://wiki.alpinelinux.org/wiki/Custom_Kernel
+
 # TODO:
 https://www.tumfatig.net/2023/smb-shares-using-omnios-zones-and-zfs/
 
