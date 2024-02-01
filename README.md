@@ -1,3 +1,6 @@
+# google coral TPU
+https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter?tab=readme-ov-file
+
 # tar -c -C "$tmp" etc | gzip -9n > $HOSTNAME.apkovl.tar.gz
 https://sanjeevan.co.uk/blog/running-services-inside-a-container-using-runit-and-alpine-linux
 https://wiki.alpinelinux.org/wiki/Custom_Kernel
