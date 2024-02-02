@@ -1,6 +1,14 @@
 # google coral TPU
 https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter?tab=readme-ov-file
 
+# https://buyzero.de/
+Google Coral M.2 Accelerator with Dual Edge TPU | 44,19 € + shipping 20,50 € (DHL) = около 70 долларов
+
+# https://www.makerfabs.com
+Dual Edge TPU Adapter - PCIe x1 Low Profile | $27.00
+- shipping: We ship to worldwide with tracking number. (Track it here: www.17track.net)
+# ######################################################################################
+
 # tar -c -C "$tmp" etc | gzip -9n > $HOSTNAME.apkovl.tar.gz
 https://sanjeevan.co.uk/blog/running-services-inside-a-container-using-runit-and-alpine-linux
 https://wiki.alpinelinux.org/wiki/Custom_Kernel
