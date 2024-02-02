@@ -9,6 +9,8 @@ Dual Edge TPU Adapter - PCIe x1 Low Profile | $27.00
 - shipping: We ship to worldwide with tracking number. (Track it here: www.17track.net)
 # ######################################################################################
 
+https://github.com/immich-app/base-images
+
 # tar -c -C "$tmp" etc | gzip -9n > $HOSTNAME.apkovl.tar.gz
 https://sanjeevan.co.uk/blog/running-services-inside-a-container-using-runit-and-alpine-linux
 https://wiki.alpinelinux.org/wiki/Custom_Kernel
