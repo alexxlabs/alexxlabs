@@ -1,3 +1,7 @@
+https://habr.com/ru/companies/macloud/articles/554234/
+https://redbean.dev/#features
+https://github.com/jart/cosmopolitan
+https://justine.lol/cosmo3/
 # google coral TPU
 https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter?tab=readme-ov-file
 
