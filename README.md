@@ -1,14 +1,18 @@
-https://habr.com/ru/companies/macloud/articles/554234/
+# Mikrotik VLAN
+https://forum.mikrotik.com/viewtopic.php?t=134541
+https://habr.com/ru/articles/578126/
+https://evilsnork.wordpress.com/2010/03/10/%d0%ba%d0%b0%d0%ba-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-vlan-%d1%81%d0%b5%d0%b3%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d1%86%d0%b8%d1%8f-%d0%bc%d0%b0%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be%d0%b9-%d0%ba/
+
+# redbean: single-file distributable web server [and technologies]
 https://redbean.dev/#features
+https://habr.com/ru/companies/macloud/articles/554234/
 https://github.com/jart/cosmopolitan
 https://justine.lol/cosmo3/
 
 # google coral TPU
 https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter?tab=readme-ov-file
-
 # https://buyzero.de/
 Google Coral M.2 Accelerator with Dual Edge TPU | 44,19 € + shipping 20,50 € (DHL) = около 70 долларов
-
 # https://www.makerfabs.com
 Dual Edge TPU Adapter - PCIe x1 Low Profile | $27.00
 - shipping: We ship to worldwide with tracking number. (Track it here: www.17track.net)
