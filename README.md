@@ -40,8 +40,6 @@ https://www.tumfatig.net/2023/smb-shares-using-omnios-zones-and-zfs/
 
 - https://duronic.com/collections/desk-mounts/products/duronic-dual-screen-monitor-stand-dm35v2x2-double-twin-pc-desk-mount-aluminium-for-two-13-27-inch-led-lcd-screens-vesa-75-100-8kg-per-screen-tilt-15-15-swivel-180-rotate-360
 
-### Linksys SPA3000
-
 ### Useful Links
 - Activate Windows/Office: https://massgrave.dev/
 - SpotX patcher used for patching the desktop version of Spotify:
