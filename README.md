@@ -63,7 +63,9 @@ https://www.tumfatig.net/2023/smb-shares-using-omnios-zones-and-zfs/
 ### windows custom desktop
 - https://www.rainmeter.net/
 - https://github.com/khanhas/Polybar
-- Try to use FancyZones from: https://github.com/microsoft/PowerToys
+
+### Android
+- https://21ideas.org/grapheneos/
 
 ### Contact me:
 
