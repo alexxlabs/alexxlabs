@@ -1,3 +1,25 @@
+Через командную строку установить приложение на планшете:
+adb install VLC.apk
+
+Через командную строку включить/выключить планшет:
+adb shell input keyevent KEYCODE_POWER
+
+Через командную строку запустить трансляцию с камеры:
+adb shell am start -a android.intent.action.VIEW -d rtsp://login:pass@192.168.15.21:88/videoMain -t video/mp4
+
+Через командную строку запустить панель управления умным домом в браузере:
+adb shell am start -a android.intent.action.VIEW -d http://192.168.15.10:8123/lovelace/default_view
+
+Вот небольшой лайфхак как можно узнать список всех установленных приложений и команды для их запуска. Для начала войдите в консоль:
+adb shell
+
+а затем выполните:
+pm list packages | sed -e "s/package://" | while read x; do cmd package resolve-activity --brief $x | tail -n 1 | grep -v "No activity found"; done
+Это выведет список всех программ:
+
+Полученной информацией можно воспользоваться по своему усмотрению и, например, запустить часы:
+adb shell am start -a android.intent.action.VIEW -d -n com.android.deskclock/.DeskClock
+
 # https://github.com/imvickykumar999/ADB-Screen-Copy
 
 ## enable WoLan
@@ -9,7 +31,7 @@ You will have to substitute the IP-Adress with the one of you Shield box.
 cd /d %~dp0
 adb kill-server 
 adb start-server 
-adb connect 192.168..1.100
+adb connect 192.168.1.100
 timeout /t 5
 adb shell input keyevent KEYCODE_WAKEUP
 adb kill-server
