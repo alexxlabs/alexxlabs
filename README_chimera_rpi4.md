@@ -115,7 +115,8 @@ Enable and persist services:
 # dinitctl enable dhcpcd
 # dinitctl enable chrony
 
-Repositories
+### Repositories
+
 By default, you will get packages from the main repository.
 However, Chimera also has packages in the user repository,
 which contains extra software unsuitable for main.
@@ -253,8 +254,8 @@ Line 4 & 5: This gives the wheel group permission to execute /usr/sbin/reboot
 
 Changing ownership and permissions of /etc/doas.conf
 
-# chmod -c 0400 /etc/doas.conf
-# chown -c root:root /etc/doas.conf
+# chmod 0400 /etc/doas.conf
+# chown root:root /etc/doas.conf
 
 This makes /etc/doas.conf only readable by the root user, owned by the root user as well
 as the root group. It might sound too stripped down, but trust me, it works!
