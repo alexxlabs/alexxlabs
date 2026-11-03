@@ -1,3 +1,9 @@
+Create a ZFS Zvol (Storage)Create a block device (zvol) in your ZFS pool to serve as the iSCSI disk
+
+```bash
+	create -V 50G zones/vol01
+```
+
 sbdadm create-lu /dev/zvol/rdsk/zones/iscsi_win_alexxdesk
 Created the following LU:
 

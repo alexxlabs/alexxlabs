@@ -11,6 +11,7 @@ online         23:05:58 svc:/milestone/network:default
 online         23:06:00 svc:/system/filesystem/local:default
 online         23:30:59 svc:/system/idmap:default
 online         23:30:59 svc:/network/smb/client:default
+
 # sharectl status
 smbfs   online client
 autofs  online client
